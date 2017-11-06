@@ -2,5 +2,9 @@ Hello Anil Dora
 starting
 Testing 1 phase
 I have reached into your local.
+<<<<<<< HEAD
 New: Changes made here
+=======
+New: changes done here
+>>>>>>> cc183a85236ab80dbaf6aba6beb42cd2bf04704d
 ending
